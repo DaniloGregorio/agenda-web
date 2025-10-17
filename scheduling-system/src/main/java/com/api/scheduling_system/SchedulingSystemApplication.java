@@ -1,4 +1,4 @@
-package com.agenda.scheduling_system;
+package com.api.scheduling_system;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
